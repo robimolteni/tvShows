@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_detail">20dp</dimen>
+    <dimen name="margin_titleText">10dp</dimen>
+    <dimen name="scrollview_height">170dp</dimen>
+    <dimen name="margin_scrollview">20dp</dimen>
+    <dimen name="margin_top_similarShowText">10dp</dimen>
+    <dimen name="margin_detail_recyclerView">20dp</dimen>
+    <dimen name="size_progressbar">40dp</dimen>
+    <dimen name="margin_similarshow">10dp</dimen>
+    <dimen name="margin_detailitem">5dp</dimen>
+
+</resources>
